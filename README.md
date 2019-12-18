@@ -12,4 +12,4 @@ C:\Users\<USERNAME>\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Co
 
 ## Macs
 
-(Not tested!) Apparently, new color schemes need to be added through Powerpoint or Excel directly. They seem to be in the palette settings icon located next to the palette drop-down menu.
+(Not tested!) Apparently, new color schemes need to be added through Powerpoint or Excel directly. This seems to work through the palette settings icon located next to the palette drop-down menu.
